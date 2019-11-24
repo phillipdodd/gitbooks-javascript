@@ -14,5 +14,9 @@ When an attacker successfully acquires our login information for a particular se
 
 Takes advantage of high likelihood of overuse of the same login information.
 
+## Data at Rest
+
+### \*\*\*\*[**Denial of Service**](https://en.wikipedia.org/wiki/Denial-of-service_attack)\*\*\*\*
+
 ## 
 

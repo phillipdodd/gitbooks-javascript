@@ -13,7 +13,8 @@
 
 ## Node.js <a id="node.js-1"></a>
 
-* [Attacks](node.js-1/attacks.md)
 * [Security and Cryptography](node.js-1/security-and-cryptography/README.md)
+  * [Attacks](node.js-1/security-and-cryptography/attacks.md)
+  * [Data at Rest \(Files and Databases\)](node.js-1/security-and-cryptography/data-at-rest-files-and-databases.md)
   * [Passwords](node.js-1/security-and-cryptography/passwords.md)
 

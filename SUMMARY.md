@@ -14,6 +14,7 @@
 ## Node.js <a id="node.js-1"></a>
 
 * [Security and Cryptography](node.js-1/security-and-cryptography/README.md)
+  * [Data in Transit](node.js-1/security-and-cryptography/data-in-transit.md)
   * [Attacks](node.js-1/security-and-cryptography/attacks.md)
   * [Data at Rest \(Files and Databases\)](node.js-1/security-and-cryptography/data-at-rest-files-and-databases.md)
   * [Passwords](node.js-1/security-and-cryptography/passwords.md)

@@ -28,5 +28,5 @@ These use **asymmetric encryption** and **hashing** in combination to ensure the
 
 The document is first hashed then encrypted using **one of the two keys**. Assuming the recipient has the **second key**, it will be used to decrypt the message and then **recalculate** the hash it resulted in to determine if changes were made.
 
-**Signing** is a major part of the **PKI**, **Public Key Infrastructure --** the backbone of the **HTTPS protocol.**
+**Signing** is a major part of the **PKI**, [**Public Key Infrastructure** ](https://en.wikipedia.org/wiki/Public_key_infrastructure)**--** the backbone of the **HTTPS protocol.**
 

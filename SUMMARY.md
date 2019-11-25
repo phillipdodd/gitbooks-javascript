@@ -10,6 +10,8 @@
 ## Node.js <a id="node.js-1"></a>
 
 * [Security and Cryptography](node.js-1/security-and-cryptography/README.md)
+  * [Security Design Considerations](node.js-1/security-and-cryptography/security-design-considerations.md)
+  * [Angular](node.js-1/security-and-cryptography/angular.md)
   * [Implementing Cryptography](node.js-1/security-and-cryptography/implementing-cryptography.md)
   * [Two-Factor Authentication](node.js-1/security-and-cryptography/two-factor-authentication.md)
   * [Attacks](node.js-1/security-and-cryptography/attacks.md)
